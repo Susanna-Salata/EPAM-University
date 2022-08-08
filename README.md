@@ -67,6 +67,8 @@ IT FUNDAMENTALS FOR UKRAINIAN SWITCHERS | EPAM/UPSKILL ME
 •	Cloud Service Models
 •	Cloud Ownership
 •	Public Cloud Platforms Overview
+
 Final Test
+
 https://github.com/Susanna-Salata/EPAM-University/blob/main/EPAM_IT_Fundamentals_for_Ukrainian_Switchers_2022.pdf
 
